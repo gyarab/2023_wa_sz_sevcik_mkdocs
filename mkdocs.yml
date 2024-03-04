@@ -1,3 +1,10 @@
-site_name: My Docs
+site_name: Můj úkol na webové aplikace
+
+
+nav:
+  - Úvodní stránka: index.md
+  - Maturitní otázky: questions.md
+  - Poznámky z třetí hodiny: notes.md
+
 
 theme: dracula
