@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Vítejte v domácím úkole z webových aplikací
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Obsahuje pouze dvě stránky takže si je užijte.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Dab me up](https://i.pinimg.com/originals/08/e8/2d/08e82d66a407af3b815d0abc48ab17fe.jpg)
